@@ -25,11 +25,11 @@ projects:
     # - repo-name
 
 social_media:
-  packagist: pxgamer
-  npm: pxgamer
-  twitter: pxgamer112
-  stackoverflow: pxgamer
   keybase: pxgamer
+  npm: pxgamer
+  packagist: pxgamer
+  stackoverflow: 3058798
+  twitter: pxgamer112
 
 topics:
   - name: PHP
